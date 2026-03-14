@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 -- Emote Splitter
 -- by Tammya-MoonGuard (2018)
---
+-- Redux Project by VfX
 --                      A l l  R i g h t s  R e s e r v e d
 --
 -- Allows you to easily paste long emotes in the chat window. Now with 2000%
