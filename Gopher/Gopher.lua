@@ -1,7 +1,7 @@
    -------------------------------------------------------------------------------
 -- Gopher
 -- by Tammya-MoonGuard (Copyright 2018)
---
+-- Redux Variant by VfX, Built on Original Framework
 -- All Rights Reserved.
 --
 -- See api.lua for the public API.
