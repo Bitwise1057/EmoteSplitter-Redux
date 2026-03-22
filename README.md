@@ -29,7 +29,7 @@ This project is a continuation of the original **Emote Splitter** addon, preserv
 3. Place the addon folder into your **World of Warcraft AddOns directory**: Typically \World of Warcraft\_retail_\Interface\AddOns\
 5. Launch **World of Warcraft**
 6. Ensure **EmoteSplitter-Redux** is enabled in the **AddOns list** on the character select screen
-
+---
 1. If using Release, download the release
 2. Extract release
 3. Rename the inner folder to EmoteSplitter
