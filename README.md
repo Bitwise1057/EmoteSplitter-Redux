@@ -33,9 +33,10 @@ This project is a continuation of the original **Emote Splitter** addon, preserv
 1. If using Release, download the release
 2. Extract release
 3. Rename the inner folder to EmoteSplitter
-4. ***Remove*** original EmoteSplitter from \World Of Warcraft\_retail_\Interface\Addons
+4. ***Remove*** original EmoteSplitter from your **World of Warcraft AddOns directory**: Typically \World Of Warcraft\_retail_\Interface\Addons
 5. Copy new EmoteSplitter into Addons Directory
-6. Reload/relog and verify EmoteSplitter Redux is now present under the Roleplay category within the AddOns UI in WoW
+6. Reload / Relog
+7. Ensure **EmoteSplitter-Redux** is enabled in the **AddOns list** on the character select screen
 
 ---
 
